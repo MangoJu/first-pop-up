@@ -1,0 +1,26 @@
+.modal {
+    display: flexbox;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    padding: 2rem;
+    border: 1px solid #eee;
+    width: 22rem;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    box-shadow: 0px 2px 35px 4px rgba(0,0,0,0.7);
+  }
+
+  .fruktfråga {
+   color: #DC6060;
+   font-size: 17px;
+  }
+
+  
+  .button-close-modal {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: auto;
+  }
